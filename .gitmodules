@@ -1,0 +1,4 @@
+[submodule "hexadoo/public"]
+	path = hexadoo/public
+	url = https://github.com/hexadoo/hexadoo.github.io.git
+	branch = main
